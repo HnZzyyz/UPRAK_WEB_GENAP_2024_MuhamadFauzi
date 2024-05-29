@@ -62,6 +62,9 @@ $hasil = $connect->query($sql);
                   <?php } ?>
                 </tbody>
               </table>
+              <div class="tambah">
+                <a href="tambah.php" class="btn btn-outline-success">Tambah</a>
+              </div>
             </div>
           </div>
         </div>
