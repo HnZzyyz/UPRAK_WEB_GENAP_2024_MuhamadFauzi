@@ -40,6 +40,14 @@
                 <span class="hide-menu">Jurusan</span>
               </a>
             </li>
+            <li class="sidebar-item">
+              <a class="sidebar-link" href="/page/siswa/index.php" aria-expanded="false">
+                <span>
+                  <i class="ti ti-article"></i>
+                </span>
+                <span class="hide-menu">Siswa</span>
+              </a>
+            </li>
         </nav>
         <!-- End Sidebar navigation -->
       </div>
